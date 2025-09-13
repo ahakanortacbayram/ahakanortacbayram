@@ -1,72 +1,82 @@
 # 👋 Hi, I'm Ahmet Hakan Ortaçbayram
-
-🎓 Electrical & Electronics Engineer | 💻 Data Analyst | 🎶 Music Producer  
-
-I’m passionate about **data-driven problem solving, embedded systems, and creative software solutions**.  
-With experience in **data collection, visualization, reporting, and full-stack development**, I aim to combine my **analytical mindset** with strong **technical and creative skills**.
+**Data-Centric Software Engineer | EEE Graduate | Pythonista | Tech Explorer**
 
 ---
 
-## 🔧 Technical Skills
+## 🌟 About Me
 
-### Programming & Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
-
-### Data & Visualization  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40"/>
-</p>
+* 🎓 I'm a 25-year-old Electrical & Electronics Engineer from Turkey.
+* 💼 Currently working at **Elektrik Üretim A.Ş.**, focusing on **data collection, validation, reporting, and visualization** in large-scale energy systems.
+* 🔧 Previous experience as a **Junior Developer at Ela Games Studio**, developing 2D/3D games in Unity & C# with a focus on performance and event-driven architecture.
+* 🚀 Freelanced at **Digital Mahsuller Ofisi**, delivering scalable MVPs using .NET, PHP, and modern frontend technologies for startups & SMEs.
+* ⚛️ Built an **embedded computer vision system** for my thesis using Python & OpenCV, with edge deployment in real-time environments.
+* 🛰️ Member of **Çukurova University Rocketry Team**, developed a custom telemetry system for flight computers.
 
 ---
 
-## 🚀 Projects & Experience
-- 🏭 **Elektrik Üretim A.Ş.** – Data Preparation & Reporting (Excel dashboards, anomaly detection, SCADA integration)  
-- 🎮 **Ela Games Studio** – Junior Developer (Unity, C#, 2D/3D game development)  
-- 🌐 **Freelancer** – Full-stack MVP development with .NET & PHP  
-- 🚀 **1.5 Adana Rocketry Team** – Flight computer system & telemetry visualization  
-- 🚗 **Electromobile Team** – Circuit design & EV systems  
+## 🦝 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🎵 Creative Side
-Outside engineering, I am the **founder, songwriter, and producer** of the band [Eskisi Gibi](https://open.spotify.com/intl-tr/artist/64olFkVC4M0xidEEKX52VH?trackId=5mL3lm7htBJ2TOlvHm2c5S).  
-I compose, arrange, and perform original songs — blending creativity with technical precision.  
+## 🏼️📌 Featured Projects
 
-🎤 Performed at **national festivals & Sofar Sounds**  
-🎧 Skilled in **Logic Pro, Studio One, Final Cut, Adobe Suite**  
+* (Soon to be added…)
 
 ---
 
-## 🌍 Hobbies & Interests
-- 🎸 Music & Songwriting  
-- 🏍️ Motorcycling & Outdoor Exploration  
-- 🎒 Solo Backpack Traveling across Europe  
+## 🌍 Languages
+
+* 🇹🇷 Turkish: Native 
+* 🇬🇧 English: Advanced
+* 🇩🇪 German: Beginner
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="mailto:ahakanortacbayram@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/ahmethakanortacbayram"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://open.spotify.com/intl-tr/artist/64olFkVC4M0xidEEKX52VH?trackId=5mL3lm7htBJ2TOlvHm2c5S"><img src="https://img.icons8.com/color/48/spotify.png" width="40"/></a>
-  <a href="https://www.youtube.com/watch?v=US0JhB_Lezc&list=RDUS0JhB_Lezc&start_radio=1"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/></a>
-  <a href="https://instagram.com/eskisigibiofficial"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-</p>
+## 🚀 What I'm Working On
+
+* 🔄 End-to-end data pipelines with Python, SQL, and Bash.
+* 🪡 Applied data analysis & visualization with Pandas, Seaborn, Matplotlib.
+* 🤖 Building & deploying ML models using OpenCV and Jupyter.
+* ⚖️ Exploring scalable systems using AWS, Docker, and Airflow.
 
 ---
-⭐️ *“Engineering solutions with data, and composing life with music.”*
+
+## 📈 Goals
+
+* ✅ Become proficient in Data Engineering and ML Ops.
+* ✅ Contribute to impactful open-source data projects.
+* ✅ Collaborate with global data science communities.
+* ✅ Build production-ready, real-time data systems.
+
+---
+
+## 💼 Contact & Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahakanortacbayram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethakanortacbayram)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahakanortacbayram@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahakanortacbayram&show_icons=true&theme=radical)
+
+---
+
+🌟 *Always building, always learning.* 🌟
