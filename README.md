@@ -38,7 +38,9 @@
 
 ## 🏼️📌 Featured Projects
 
-* (Soon to be added…)
+* ✈️ Airline Passenger Satisfaction Data Analysis
+  This project aims to explore the factors affecting airline passenger satisfaction using data analysis and visualization techniques.
+
 
 ---
 
