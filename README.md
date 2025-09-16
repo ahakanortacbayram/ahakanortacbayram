@@ -38,8 +38,8 @@
 
 ## 🏼️📌 Featured Projects
 
-* ✈️ Airline Passenger Satisfaction Data Analysis
-  This project aims to explore the factors affecting airline passenger satisfaction using data analysis and visualization techniques.
+[✈️ Airline Passenger Satisfaction Data Analysis](https://github.com/kaganmart9/airline-passenger-satisfaction-data-analysis)
+This project aims to explore the factors affecting airline passenger satisfaction using data analysis and visualization techniques.
 
 
 ---
